@@ -7,9 +7,7 @@ namespace TesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Teste segundo commit!");
-
-            Console.WriteLine("Teste Terceiro commit!");
+            Console.WriteLine("Cmmtando");
         }
     }
 }
